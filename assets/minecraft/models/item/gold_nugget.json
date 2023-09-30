@@ -1,0 +1,41 @@
+{
+    "parent": "item/gold_nugget",
+
+	"overrides":  [
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550501
+			},
+			"model":"delve:treasure/coin_pile_very_small"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550502
+			},
+			"model":"delve:treasure/coin_pile_small"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550503
+			},
+			"model":"delve:treasure/coin_pile_medium"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550504
+			},
+			"model":"delve:treasure/coin_pile_large"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550505
+			},
+			"model":"delve:treasure/coin_pile_very_large"
+		}
+	]	
+}

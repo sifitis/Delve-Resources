@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type" : "directory",
+            "source" : "treasure",
+            "prefix" : "treasure/"
+        },
+        {
+            "type" : "directory",
+            "source" : "doors",
+            "prefix" : "doors/"
+        }
+    ]
+}
