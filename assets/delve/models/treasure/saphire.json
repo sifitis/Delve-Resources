@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "delve:treasure/gemstone",
+	"textures": {
+		"0": "delve:treasure/saphire",
+		"particle": "delve:treasure/saphire"
+	}
+}
