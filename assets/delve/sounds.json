@@ -1,0 +1,105 @@
+{
+    "treasure.coins.very_small.pickup": {
+        "subtitle": "Coins jingle",
+        "sounds": [
+            {
+                "name": "delve:treasure/coin_pile_very_small/pickup_1",
+                "weight": 1
+            },
+            {
+                "name": "delve:treasure/coin_pile_very_small/pickup_2",
+                "weight": 1
+            }
+        ]
+    },
+
+    "treasure.coins.very_small.pickup_echo": {
+        "subtitle": "Coins jingle",
+        "sounds": [
+            {
+                "name": "delve:treasure/coin_pile_very_small/pickup_1_echo",
+                "weight": 1
+            },
+            {
+                "name": "delve:treasure/coin_pile_very_small/pickup_2_echo",
+                "weight": 1
+            }
+        ]
+    },
+
+    "treasure.coins.small.pickup": {
+        "subtitle": "Coins jingle",
+        "sounds": [
+            {
+                "name": "delve:treasure/coin_pile_small/pickup_1",
+                "weight": 1
+            },
+            {
+                "name": "delve:treasure/coin_pile_small/pickup_2",
+                "weight": 1
+            }
+        ]
+    },
+
+    "treasure.coins.medium.pickup": {
+        "subtitle": "Coins jingle",
+        "sounds": [
+            {
+                "name": "delve:treasure/coin_pile_medium/pickup_1",
+                "weight": 1
+            },
+            {
+                "name": "delve:treasure/coin_pile_medium/pickup_2",
+                "weight": 1
+            }
+        ]
+    },
+
+    "treasure.coins.large.pickup": {
+        "subtitle": "Coins jingle",
+        "sounds": [
+            {
+                "name": "delve:treasure/coin_pile_large/pickup_1",
+                "weight": 1
+            },
+            {
+                "name": "delve:treasure/coin_pile_large/pickup_2",
+                "weight": 1
+            }
+        ]
+    },
+
+    "treasure.coins.large.pickup_echo": {
+        "subtitle": "Coins jingle",
+        "sounds": [
+            {
+                "name": "delve:treasure/coin_pile_large/pickup_1_echo",
+                "weight": 1
+            },
+            {
+                "name": "delve:treasure/coin_pile_large/pickup_2_echo",
+                "weight": 1
+            }
+        ]
+    },
+
+    "treasure.coins.very_large.pickup": {
+        "subtitle": "Coins jingle",
+        "sounds": [
+            {
+                "name": "delve:treasure/coin_pile_very_large/pickup_1",
+                "weight": 1
+            }
+        ]
+    },
+
+    "doors.stone_door.scraping": {
+        "subtitle": "Stone door scraping",
+        "sounds": [
+            {
+                "name": "delve:doors/stone_door/stone_door_scraping_1",
+                "weight": 1
+            }
+        ]
+    }
+}
