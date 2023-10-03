@@ -36,6 +36,27 @@
 				"custom_model_data": 2550505
 			},
 			"model":"delve:treasure/coin_pile_very_large"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550601
+			},
+			"model":"delve:treasure/saphire"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550602
+			},
+			"model":"delve:treasure/emerald"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550603
+			},
+			"model":"delve:treasure/ruby"
 		}
 	]	
 }

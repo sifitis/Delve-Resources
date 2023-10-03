@@ -9,6 +9,11 @@
             "type" : "directory",
             "source" : "doors",
             "prefix" : "doors/"
+        },
+        {
+            "type" : "directory",
+            "source" : "traps",
+            "prefix" : "traps/"
         }
     ]
 }

@@ -1,0 +1,13 @@
+{
+    "parent": "item/potion",
+
+	"overrides":  [
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550103
+			},
+			"model":"delve:traps/pendulum"
+		}
+	]	
+}
