@@ -8,6 +8,13 @@
 				"custom_model_data": 2550103
 			},
 			"model":"delve:traps/pendulum"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550104
+			},
+			"model":"delve:traps/spike_plate/extend"
 		}
 	]	
 }
