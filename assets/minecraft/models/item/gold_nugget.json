@@ -40,6 +40,13 @@
 		{
 			"predicate":
 			{
+				"custom_model_data": 2550506
+			},
+			"model":"delve:treasure/golden_goblet"
+		},
+		{
+			"predicate":
+			{
 				"custom_model_data": 2550601
 			},
 			"model":"delve:treasure/saphire"
