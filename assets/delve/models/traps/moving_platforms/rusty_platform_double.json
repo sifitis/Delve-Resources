@@ -1,0 +1,77 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "delve:traps/moving_platforms/rusty_platform_double",
+		"particle": "delve:traps/moving_platforms/rusty_platform_double"
+	},
+	"elements": [
+		{
+			"name": "platform",
+			"from": [0, 0, -8],
+			"to": [16, 4, 24],
+			"faces": {
+				"north": {"uv": [10, 0, 12, 8], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [8, 0, 10, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10, 0, 12, 8], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [8, 0, 10, 16], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Chain Thingy",
+			"from": [0, -4, -7],
+			"to": [4, 0, 1],
+			"faces": {
+				"north": {"uv": [14, 12, 16, 14], "texture": "#0"},
+				"east": {"uv": [12, 14, 16, 16], "texture": "#0"},
+				"south": {"uv": [12, 12, 14, 14], "texture": "#0"},
+				"west": {"uv": [12, 14, 16, 16], "texture": "#0"},
+				"up": {"uv": [16, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [10, 12, 12, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Chain Thingy",
+			"from": [12, -4, 15],
+			"to": [16, 0, 23],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -2, 19]},
+			"faces": {
+				"north": {"uv": [12, 12, 14, 14], "texture": "#0"},
+				"east": {"uv": [12, 14, 16, 16], "texture": "#0"},
+				"south": {"uv": [14, 12, 16, 14], "texture": "#0"},
+				"west": {"uv": [12, 14, 16, 16], "texture": "#0"},
+				"up": {"uv": [16, 0, 16, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10, 12, 12, 16], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "Chain Thingy",
+			"from": [0, -4, 15],
+			"to": [4, 0, 23],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -2, 19]},
+			"faces": {
+				"north": {"uv": [12, 12, 14, 14], "texture": "#0"},
+				"east": {"uv": [12, 14, 16, 16], "texture": "#0"},
+				"south": {"uv": [14, 12, 16, 14], "texture": "#0"},
+				"west": {"uv": [12, 14, 16, 16], "texture": "#0"},
+				"up": {"uv": [16, 0, 16, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10, 12, 12, 16], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "Chain Thingy",
+			"from": [12, -4, -7],
+			"to": [16, 0, 1],
+			"faces": {
+				"north": {"uv": [14, 12, 16, 14], "texture": "#0"},
+				"east": {"uv": [12, 14, 16, 16], "texture": "#0"},
+				"south": {"uv": [12, 12, 14, 14], "texture": "#0"},
+				"west": {"uv": [12, 14, 16, 16], "texture": "#0"},
+				"up": {"uv": [16, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [10, 12, 12, 16], "texture": "#0"}
+			}
+		}
+	]
+}

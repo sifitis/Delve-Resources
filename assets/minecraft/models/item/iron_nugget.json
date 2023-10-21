@@ -8,6 +8,13 @@
 				"custom_model_data": 2550701
 			},
 			"model":"delve:doors/stone_door_small_1"
+		},
+		{
+			"predicate":
+			{
+				"custom_model_data": 2550106
+			},
+			"model":"delve:traps/moving_platforms/rusty_platform_double"
 		}
 	]	
 }

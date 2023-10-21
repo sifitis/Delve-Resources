@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/black_stained_glass"
+    },
+
+	"overrides":  [
+		{
+            "predicate":
+            {
+                "custom_model_data": 2550000
+            },
+            "model":"delve:utility/invis"
+
+        },
+        {
+            "predicate":
+            {
+                "custom_model_data": 2550001
+            },
+            "model":"delve:utility/abyss_tile"
+
+        }
+	]	
+}

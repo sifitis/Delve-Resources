@@ -14,6 +14,11 @@
             "type" : "directory",
             "source" : "traps",
             "prefix" : "traps/"
+        },
+        {
+            "type" : "directory",
+            "source" : "utility",
+            "prefix" : "utility/"
         }
     ]
 }
